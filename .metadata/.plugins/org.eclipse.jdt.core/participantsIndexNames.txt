@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1842704764.index
+\Web-Lab10\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2483564995.index
+\Web-Lab3\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1887307841.index
+\Web-Lab8\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\718548604.index
+\Lab10Ajax\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3933452863.index
+\Web-Lab11\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1656793939.index
+\Web-Lab5\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3848691728.index
+\Web-Lab4\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3321109595.index
+\Web-Lab3\src\main\java
+C:\Users\PC\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4158178050.index
+\Web-Lab9\src\main\java

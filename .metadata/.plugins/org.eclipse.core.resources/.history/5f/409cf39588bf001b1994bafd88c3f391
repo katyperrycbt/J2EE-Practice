@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<bookdetails>
+		<isbn>0470114878</isbn>
+		<title>Beginning XML, 4th Edition (Programmer to Programmer)</title>
+		<author>David Hunter, Jeff Rafter, Joe Fawcett, and Eric van Dist</author>
+		<publisher>Wrox</publisher>
+		<publicationdate>May 21, 2007</publicationdate>
+		<price>26.39</price>
+	</bookdetails>
+</book>
